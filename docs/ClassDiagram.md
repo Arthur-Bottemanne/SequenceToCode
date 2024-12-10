@@ -4,6 +4,7 @@ title: Enterprise - AssignVehicleToDriver
 ---
 classDiagram
     class Person{
+        <<abstract>>
         + email : string
     }
     class Driver{
