@@ -11,14 +11,14 @@ La question à laquelle répondre en réalisant votre architecture est "Quelle e
 
 Chaque technicien atteindra les objectifs suivants en réalisant ce laboratoire:
 
-- [ ] Analyser un diagramme de séquence afin de se familiariser à la norme imposée.
-- [ ] Dessiner l'architecture (diagramme de classe) minimale pour pouvoir réaliser la séquence.
+- [x] Analyser un diagramme de séquence afin de se familiariser à la norme imposée.
+- [x] Dessiner l'architecture (diagramme de classe) minimale pour pouvoir réaliser la séquence.
 - [ ] Coder, dans le langage de son choix, la séquence.
-- [ ] Revisiter les notions de "git-flow" et de "conventional commit" en appliquant les pratiques aussi bien 
+- [x] Revisiter les notions de "git-flow" et de "conventional commit" en appliquant les pratiques aussi bien 
     * lors de la création du diagramme de classe (plant uml ou autre outil de "uml as code")
     * lors de l'écriture du code
-- [ ] Réalisez un fork de ce dépôt.
-- [ ] Appliquer la structure suivante à votre dépôt:
+- [x] Réalisez un fork de ce dépôt.
+- [x] Appliquer la structure suivante à votre dépôt:
 
   ```
   <yourProject>
@@ -35,11 +35,11 @@ Chaque technicien atteindra les objectifs suivants en réalisant ce laboratoire:
 ![image](https://github.com/user-attachments/assets/95f5f27c-c033-493d-8ba0-8e42eb22a5a8)
 
 * Les informations complémentaires à prendre en compte:
-   - [ ] La classe Driver:
+   - [x] La classe Driver:
       * hérite de la classe Person.
-   - [ ] La classe Person:
+   - [x] La classe Person:
       * est identifiée grâce à une adresse email.
-   - [ ] La classe Vehicle:
+   - [x] La classe Vehicle:
      * est identifiée grâce à son numéro de chassis.
 
 ## Livraison
