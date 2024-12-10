@@ -13,7 +13,7 @@ Chaque technicien atteindra les objectifs suivants en réalisant ce laboratoire:
 
 - [x] Analyser un diagramme de séquence afin de se familiariser à la norme imposée.
 - [x] Dessiner l'architecture (diagramme de classe) minimale pour pouvoir réaliser la séquence.
-- [ ] Coder, dans le langage de son choix, la séquence.
+- [x] Coder, dans le langage de son choix, la séquence.
 - [x] Revisiter les notions de "git-flow" et de "conventional commit" en appliquant les pratiques aussi bien 
     * lors de la création du diagramme de classe (plant uml ou autre outil de "uml as code")
     * lors de l'écriture du code
